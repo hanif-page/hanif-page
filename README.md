@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🏫 I'm currently a student at one of the Senior High School in Jakarta
 - 🏠 I live in Jakarta, Indonesia
-- 🌱 I’m currently learning about web development
+- 🌱 I’m currently learning more about web development
 - 📫 How to reach me: <br>
   [Instagram](https://instagram.com/amrrhaniff) |
   [Email](mailto:amrhanif15@gmail.com?subject=Hello%20Hanif%2C%20I%20want%20to%20have%20some%20collaborate%20with%20you&body=My%20Name%20is%20%5BYOUR%20NAME%5D%2C%20I'm%20from%20%5BYOUR%20CITY%5D.%20%5BYOUR%20MESSAGE%5D)
