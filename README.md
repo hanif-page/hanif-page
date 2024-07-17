@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:
 -->
 
-- 🏫 I'm currently a student at one of the Senior High School in Jakarta
+- 🏫 I'm currently a freshman at School of Electrical Engineering and Informatics, Bandung Institute of Technology 
 - 🏠 I live in Jakarta, Indonesia
 <!-- 
 - 🌱 I’m currently learning more about web development
