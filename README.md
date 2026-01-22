@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:
 -->
 
-- 🏫 I'm currently a freshman at School of Electrical Engineering and Informatics, Bandung Institute of Technology 
+- 🏫 I'm currently a sophomore @ Electrical Engineering ITB 
+<!--
 - 🏠 I live in Jakarta, Indonesia
+-->
 <!-- 
 - 🌱 I’m currently learning more about web development
  -->
